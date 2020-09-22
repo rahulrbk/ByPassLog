@@ -1,1 +1,1 @@
-# verzeo-webapp
+webapp
